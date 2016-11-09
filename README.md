@@ -70,7 +70,7 @@
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-10/blob/master/imgs/lab10-8.png">
 </p> 
 
-<img src= "">
+<img src= "https://github.com/Siriphornyui/LAB-10/blob/master/10111.jpg">
 
 ## การวาดส่วนโค้ง (Arc)
    <p align="center">
